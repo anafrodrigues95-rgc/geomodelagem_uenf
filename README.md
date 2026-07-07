@@ -30,16 +30,16 @@ Abaixo apresenta-se a delimitação da região produtora do Baixo Tocantins em f
 Foram processados dados meteorológicos da base **Copernicus (ERA5/ERA5-Land)** referentes ao ano de 2024 (horário das 15h). Abaixo estão os mapas sazonais gerados para cada variável atmosférica:
 
 ### 🌧️ Precipitação ou Índice Pluviométrico
-![Precipitação Sazonal](./Precipitacao_4estacoes.jpg)
+![Precipitação Sazonal](./Precipitacao_4_estacoes.jpg)
 
 ### 🌡️ Temperatura do Ar (ºC)
-![Temperatura Sazonal](./Temperatura_4estacoes.jpg)
+![Temperatura Sazonal](./Temperatura_4_estacoes.jpg)
 
 ### 💨 Intensidade do Vento (m/s)
-![Vento Sazonal](./Vento_4estacoes.jpg)
+![Vento Sazonal](./Vento_4_estacoes.jpg)
 
 ### 💧 Umidade Relativa (%)
-![Umidade Sazonal](./Umidade_4estacoes.jpg)
+![Umidade Sazonal](./Umidade_4_estacoes.jpg)
 
 ---
 
