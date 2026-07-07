@@ -9,7 +9,7 @@ Este repositório contém o desenvolvimento prático da análise integrada da pr
 * **Programa:** Mestrado em Clima e Energia
 * **Disciplina:** GeoModelagem do Potencial Energético e do Microclima Urbano
 * **Professora:** Dra. Raquel Jahara Lobosco
-* **Desenvolvido em Dupla por:** Ana Flávia Rodrigues Barcelos Cordeiro & Rafael de Oliveira Meneses
+* **Desenvolvido em Dupla por:** Ana Flávia Rodrigues Barcelos Cordeiro & Rayane Pereira de Souza
 
 ---
 
