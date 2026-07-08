@@ -45,15 +45,22 @@ Foram processados dados meteorológicos da base **Copernicus (ERA5/ERA5-Land)** 
 
 ---
 
+
 ## 👁️ Parte 2 – Visão Computacional com YOLO
 
-> 🚀 [Clique aqui para abrir o Notebook da Parte 2 (acaibarbeiro.ipynb)](./acaibarbeiro.ipynb)
+Aplicação de visão computacional utilizando a biblioteca **YOLO/Ultralytics** para detectar elementos associados à produção de açaí e ao risco sanitário de transmissão oral da Doença de Chagas. O desenvolvimento foi dividido em dois experimentos complementares utilizando modelos de segmentação de instâncias:
 
+### 🟣 Experimento 1: Segmentação de Classe Única (Açaí)
+Focado no treinamento da rede para identificação precisa das estruturas do fruto e dos cachos de açaí em condições ideais e ambientes agrícolas.
+* **Modelo Utilizado:** YOLO11l-seg (Large)
+* 🚀 [Clique aqui para abrir o Notebook do Experimento 1 (Cópia_de_uenf_acai_project.ipynb)](./C%C3%B3pia_de_uenf_acai_project.ipynb)
 
-Aplicação de visão computacional utilizando a biblioteca **YOLO/Ultralytics** para detectar elementos associados à produção de açaí e ao risco sanitário. O modelo foi treinado para realizar a detecção visual do inseto vetor (barbeiro/triatomíneo) e das estruturas do fruto (açaí, cacho).
+### 🪲 Experimento 2: Detecção Multiclasse (Açaí + Barbeiro)
+Extensão do modelo para um cenário real de triagem fitossanitária, treinado para realizar a detecção simultânea das estruturas do fruto e do inseto vetor (*triatomíneo/barbeiro*) em fundos complexos, aplicando penalização na função de perda para lidar com o desbalanceamento de classes.
+* **Modelo Utilizado:** YOLO11m-seg (Medium)
+* 🚀 [Clique aqui para abrir o Notebook do Experimento 2 (acaibarbeiro.ipynb)](./acaibarbeiro.ipynb)
 
 ---
-
 ## 📊 Parte 3 – Análise Integrada entre Clima e Produção de Açaí
 
 Abaixo apresenta-se a tabela comparativa correlacionando os dados meteorológicos do Copernicus com os aspectos ecológicos e biológicos observados na região produtora de Igarapé-Miri, Abaetetuba e Cametá.
