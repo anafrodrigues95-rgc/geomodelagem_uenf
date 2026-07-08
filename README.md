@@ -100,14 +100,14 @@ Relatório final com todos os dados e análise
 
 ---
 
-## 🚀 Como Reproduzir os Códigos (Item 1)
+## 🚀 Como Reproduzir os Códigos 
 
 Todos os scripts foram desenvolvidos para serem executados no ambiente virtual do **Google Colab** com suporte a GPU (T4):
 
 1. **Parte 1 (Mapas):** Abra o arquivo `Mapas_acai.ipynb` no Colab. Certifique-se de instalar as dependências de geoprocessamento (`pip install cartopy xarray netcdf4 h5netcdf cdsapi`) e configurar o seu token da API do Copernicus no arquivo `.cdsapirc`.
 2. **Parte 2 (YOLO):** Os notebooks `Cópia_de_uenf_acai_project.ipynb` e `acaibarbeiro.ipynb` realizam a instalação automatizada da biblioteca `ultralytics` e o download das imagens via Roboflow. Basta executar as células sequencialmente.
 
-## 📊 Acesso ao Dataset (Item 4)
+## 📊 Acesso ao Dataset 
 
 O banco de dados contendo as imagens anotadas e as máscaras de segmentação foi estruturado e hospedado publicamente na plataforma **Roboflow**. 
 * Os notebooks da **Parte 2** já contêm a linha de código parametrizada com o ID do projeto para baixar e extrair o dataset automaticamente (`açai-2`) direto para o diretório de treino do modelo, garantindo a perfeita reprodução dos experimentos fitossanitários.
