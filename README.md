@@ -58,14 +58,15 @@ Aplicação de visão computacional utilizando a biblioteca **YOLO/Ultralytics**
 
 Abaixo apresenta-se a tabela comparativa correlacionando os dados meteorológicos do Copernicus com os aspectos ecológicos e biológicos observados na região produtora de Igarapé-Miri, Abaetetuba e Cametá.
 
-### 📈 Tabela Comparativa Sazonal
 
-| Estação | Precipitação | Temperatura | Umidade | Vento | Índice de produção (qualitativo)* |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Verão** | Alta/moderada | Amena | Alta | Elevado (costa) | Baixo–moderado |
-| **Outono** | Moderada | Mais baixa do ano | Alta | Moderado | Baixo |
-| **Inverno** | Mínima do ano | Elevada | Mínima relativa | Fraco (costa) | Alto (pico de safra) |
-| **Primavera** | Retomada | Máxima do ano | Mínima do ano | Máximo do ano | Moderado–alto |
+### 📈 Tabela Comparativa Sazonal (Dados Reais ERA5-Land 2024)
+
+| Estação | Precipitação (mm/dia) | Temperatura (°C) | Umidade (%) | Vento (m/s) | Índice de Produção |
+| :--- | :---: | :---: | :---: | :---: | :--- |
+| **Verão** | 4.48 | 30.06 | 68.22 | 2.03 | Baixo |
+| **Outono** | 12.25 | 29.29 | 76.66 | 1.34 | Muito Baixo |
+| **Inverno** | 1.31 | 32.54 | 50.11 | 2.00 | Médio |
+| **Primavera** | 0.32 | 35.11 | 39.63 | 2.38 | Alto |
 
 ### 📉 Gráfico de Correlação Sazonal
 
