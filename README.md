@@ -61,7 +61,8 @@ Extensão do modelo para um cenário real de triagem fitossanitária, treinado p
 * **Modelo Utilizado:** YOLO11m-seg (Medium)
 * 🚀 [Clique aqui para abrir o Notebook do Experimento 2 (acaibarbeiro.ipynb)](./acaibarbeiro.ipynb)
 
-  ## 🖼️ Resultados Visuais do YOLO 
+
+### 🖼️ Resultados Visuais do YOLO 
 
 Os arquivos visuais gerados durante o treinamento, validação e as predições finais do modelo YOLO estão organizados e salvos diretamente no repositório. 
 
@@ -70,6 +71,7 @@ Os arquivos visuais gerados durante o treinamento, validação e as predições 
 Nesta pasta você encontrará a evolução das curvas de perda (`results.png`), a matriz de confusão para análise de erros e acertos, e exemplos de imagens de teste com as máscaras de segmentação aplicadas no açaí e no barbeiro.
 
 ---
+
 ## 📊 Parte 3 – Análise Integrada entre Clima e Produção de Açaí
 
 Abaixo apresenta-se a tabela comparativa correlacionando os dados meteorológicos do Copernicus com os aspectos ecológicos e biológicos observados na região produtora de Igarapé-Miri, Abaetetuba e Cametá.
@@ -91,12 +93,14 @@ Abaixo apresenta-se a tabela comparativa correlacionando os dados meteorológico
 
 ---
 
+
 ## 📄 Relatório Final
 
 O relatório final detalhado com toda a fundamentação teórica, metodologia e análise aprofundada dos resultados foi gerado em formato PDF e pode ser consultado na documentação do projeto.
 
 Relatório final com todos os dados e análise
 ![Geomodelagem, Clima e Produção de Açaí (1).pdf]
+
 
 ---
 
