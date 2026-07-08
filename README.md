@@ -43,6 +43,7 @@ Foram processados dados meteorológicos da base **Copernicus (ERA5/ERA5-Land)** 
 ### 💧 Umidade Relativa (%)
 <img width="1600" height="1333" alt="Umidade_4_estacoes" src="https://github.com/user-attachments/assets/c9c8124d-2007-4c37-813e-e7b3db4de977" />
 
+
 ---
 
 
@@ -88,3 +89,16 @@ O relatório final detalhado com toda a fundamentação teórica, metodologia e 
 
 Relatório final com todos os dados e análise
 ![Geomodelagem, Clima e Produção de Açaí (1).pdf]
+
+
+## 🚀 Como Reproduzir os Códigos (Item 1)
+
+Todos os scripts foram desenvolvidos para serem executados no ambiente virtual do **Google Colab** com suporte a GPU (T4):
+
+1. **Parte 1 (Mapas):** Abra o arquivo `Mapas_acai.ipynb` no Colab. Certifique-se de instalar as dependências de geoprocessamento (`pip install cartopy xarray netcdf4 h5netcdf cdsapi`) e configurar o seu token da API do Copernicus no arquivo `.cdsapirc`.
+2. **Parte 2 (YOLO):** Os notebooks `Cópia_de_uenf_acai_project.ipynb` e `acaibarbeiro.ipynb` realizam a instalação automatizada da biblioteca `ultralytics` e o download das imagens via Roboflow. Basta executar as células sequencialmente.
+
+## 📊 Acesso ao Dataset (Item 4)
+
+O banco de dados contendo as imagens anotadas e as máscaras de segmentação foi estruturado e hospedado publicamente na plataforma **Roboflow**. 
+* Os notebooks da **Parte 2** já contêm a linha de código parametrizada com o ID do projeto para baixar e extrair o dataset automaticamente (`açai-2`) direto para o diretório de treino do modelo, garantindo a perfeita reprodução dos experimentos fitossanitários.
