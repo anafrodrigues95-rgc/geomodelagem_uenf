@@ -48,7 +48,7 @@ Foram processados dados meteorológicos da base **Copernicus (ERA5/ERA5-Land)** 
 ## 👁️ Parte 2 – Visão Computacional com YOLO
 
 > 🚀 [Clique aqui para abrir o Notebook da Parte 2 (acaibarbeiro.ipynb)](./acaibarbeiro.ipynb)
-> 🚀 [Clique aqui para abrir o Notebook do Experimento 1 (YOLO Açaí)](./C%C3%B3pia_de_uenf_acai_project.ipynb)
+
 
 Aplicação de visão computacional utilizando a biblioteca **YOLO/Ultralytics** para detectar elementos associados à produção de açaí e ao risco sanitário. O modelo foi treinado para realizar a detecção visual do inseto vetor (barbeiro/triatomíneo) e das estruturas do fruto (açaí, cacho).
 
@@ -70,7 +70,8 @@ Abaixo apresenta-se a tabela comparativa correlacionando os dados meteorológico
 
 ### 📉 Gráfico de Correlação Sazonal
 
-*(Para incluir a imagem do seu gráfico aqui, basta arrastar o arquivo do gráfico direto para esta linha enquanto estiver editando)*
+<img width="989" height="690" alt="grafico_clima_x_indice_de_producao" src="https://github.com/user-attachments/assets/36b4c580-171d-473e-9a1a-cc6be94983c0" />
+
 
 ---
 
