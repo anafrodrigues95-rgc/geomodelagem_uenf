@@ -61,6 +61,14 @@ Extensão do modelo para um cenário real de triagem fitossanitária, treinado p
 * **Modelo Utilizado:** YOLO11m-seg (Medium)
 * 🚀 [Clique aqui para abrir o Notebook do Experimento 2 (acaibarbeiro.ipynb)](./acaibarbeiro.ipynb)
 
+  ## 🖼️ Resultados Visuais do YOLO 
+
+Os arquivos visuais gerados durante o treinamento, validação e as predições finais do modelo YOLO estão organizados e salvos diretamente no repositório. 
+
+* 📁 [Clique aqui para acessar a pasta com os gráficos de treino, matriz de confusão e predições](./resultados)
+
+Nesta pasta você encontrará a evolução das curvas de perda (`results.png`), a matriz de confusão para análise de erros e acertos, e exemplos de imagens de teste com as máscaras de segmentação aplicadas no açaí e no barbeiro.
+
 ---
 ## 📊 Parte 3 – Análise Integrada entre Clima e Produção de Açaí
 
