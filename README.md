@@ -90,6 +90,7 @@ O relatório final detalhado com toda a fundamentação teórica, metodologia e 
 Relatório final com todos os dados e análise
 ![Geomodelagem, Clima e Produção de Açaí (1).pdf]
 
+---
 
 ## 🚀 Como Reproduzir os Códigos (Item 1)
 
