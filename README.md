@@ -99,7 +99,7 @@ Abaixo apresenta-se a tabela comparativa correlacionando os dados meteorológico
 O relatório final detalhado com toda a fundamentação teórica, metodologia e análise aprofundada dos resultados foi gerado em formato PDF e pode ser consultado na documentação do projeto.
 
 Relatório final com todos os dados e análise
-![Geomodelagem, Clima e Produção de Açaí (1).pdf]
+👉 **[Clique aqui para acessar o Relatório Final Completo (PDF)](./Geomodelagem,%20Clima%20e%20Produ%C3%A7%C3%A3o%20de%20A%C3%A7a%C3%AD%20(1).pdf)**
 
 
 ---
