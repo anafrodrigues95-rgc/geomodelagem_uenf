@@ -24,12 +24,9 @@ Este repositório contém o desenvolvimento prático da análise integrada da pr
 Nesta etapa, criamos os mapas climáticos sazonais do Estado do Pará utilizando a biblioteca **Cartopy** em Python, destacando a principal região produtora de açaí (Igarapé-Miri, Cametá, Abaetetuba e entorno).
 
 
-
 ### 📍 Área de Estudo e Cobertura da Terra
 
 Abaixo apresenta-se a delimitação da região produtora do Baixo Tocantins em foco e o respectivo mapeamento de uso e cobertura do solo:
-
-
 
 <p align="center">
 
@@ -38,8 +35,6 @@ Abaixo apresenta-se a delimitação da região produtora do Baixo Tocantins em f
   <img src="./Mapa_usoecobertura.jpeg" width="45%" alt="Uso e Cobertura da Terra"/>
 
 </p>
-
-
 
 Foram processados dados meteorológicos da base **Copernicus (ERA5/ERA5-Land)** referentes ao ano de 2024 (horário das 15h). Abaixo estão os mapas sazonais gerados para cada variável atmosférica: 
 
