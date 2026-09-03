@@ -23,11 +23,16 @@ Nesta etapa, criamos os mapas climáticos sazonais do Estado do Pará utilizando
 Abaixo apresenta-se a delimitação da região produtora do Baixo Tocantins em foco e o respectivo mapeamento de uso e cobertura do solo:
 
 <p align="center">
-  <img src="./Regiao_produtora.jpeg" width="45%" alt="Região Produtora"/>
-  <img src="./Mapa_usoecobertura.jpeg" width="45%" alt="Uso e Cobertura da Terra"/>
+  <a href="parte1_mapeamento_climatico/contexto_area_de_estudo/Regiao_produtora.jpeg">
+    <img src="parte1_mapeamento_climatico/contexto_area_de_estudo/Regiao_produtora.jpeg" width="45%" alt="Região Produtora"/>
+  </a>
+  <a href="parte1_mapeamento_climatico/contexto_area_de_estudo/Mapa_usoecobertura.jpeg">
+    <img src="parte1_mapeamento_climatico/contexto_area_de_estudo/Mapa_usoecobertura.jpeg" width="45%" alt="Uso e Cobertura da Terra"/>
+  </a>
 </p>
 
-Foram processados dados meteorológicos da base **Copernicus (ERA5/ERA5-Land)** referentes ao ano de 2024 (horário das 15h). Abaixo estão os mapas sazonais gerados para cada variável atmosférica:
+* 📁 [Caminho do arquivo: Região Produtora (`Regiao_produtora.jpeg`)](parte1_mapeamento_climatico/contexto_area_de_estudo/Regiao_produtora.jpeg)
+* 📁 [Caminho do arquivo: Uso e Cobertura do Solo (`Mapa_usoecobertura.jpeg`)](parte1_mapeamento_climatico/contexto_area_de_estudo/Mapa_usoecobertura.jpeg)
 
 ### 🌧️ Precipitação ou Índice Pluviométrico
 <img width="1600" height="1333" alt="Precipitacao_4_estacoes" src="https://github.com/user-attachments/assets/8b524ed6-4505-4eaf-992b-6c697917175f" />
